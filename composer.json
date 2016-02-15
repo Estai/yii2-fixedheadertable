@@ -1,0 +1,23 @@
+{
+  "name":  "estai/yii2-fixedheadertable",
+  "version": "1.0.0",
+  "description": "FixedHeaderTable in its simplest form displays a fixed header for any valid table mark-up. This is an active jQuery plugin project so expect new features and improvements to be released. ",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "extension", "jFixedHeaderTable", "widget", "jquery", "fixed-column"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Estai",
+      "email": "estai_05_93@mail.ru"
+    }
+  ],
+  "require": {
+    "nsept/yii2-mousewheel": "*",
+    "bower-asset/jquery.fixedheadertable": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "estai\\fixedheadertable\\": ""
+    }
+  }
+}
