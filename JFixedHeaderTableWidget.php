@@ -1,9 +1,9 @@
 <?php
 
-namespace Estai\fixedheadert;
+namespace estai\fixedheadert;
 
 use yii\base\Widget;
-use Estai\fixedheadert\assets\JFixedHeaderTableAsset;
+use estai\fixedheadert\assets\JFixedHeaderTableAsset;
 use nsept\mousewheel\MousewheelAsset;
 use yii\helpers\Json;
 use yii\web\View;

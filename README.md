@@ -6,18 +6,18 @@
 
 Either run
 
-```composer require Estai/yii2-fixedheadertable "@dev"```
+```composer require estai/yii2-fixedheadertable "@dev"```
 
 or add
 
-```"Estai/yii2-fixedheadertable": "@dev"```
+```"estai/yii2-fixedheadertable": "@dev"```
 
 to the ```require``` section of your `composer.json` file.
 
 ## Usage
 
 ```php
-<? \Estai\fixedheadert\JFixedHeaderTableWidget::widget([
+<? \estai\fixedheadert\JFixedHeaderTableWidget::widget([
     'container' => '.table',
     'settings' => [
         // Plugin options (http://www.fixedheadertable.com/)
