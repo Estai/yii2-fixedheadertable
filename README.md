@@ -17,7 +17,7 @@ to the ```require``` section of your `composer.json` file.
 ## Usage
 
 ```php
-<? \Tstai\fixedheadert\JFixedHeaderTableWidget::widget([
+<? \Estai\fixedheadert\JFixedHeaderTableWidget::widget([
     'container' => '.table',
     'settings' => [
         // Plugin options (http://www.fixedheadertable.com/)
