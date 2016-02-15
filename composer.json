@@ -13,11 +13,12 @@
   ],
   "require": {
     "nsept/yii2-mousewheel": "*",
-     "bower-asset/jquery.fixedheadertable": "*"
+     "bower-asset/jquery.fixedtable": "@dev"
+
   },
   "autoload": {
     "psr-4": {
-      "estai\\fixedheadertable\\": ""
+      "estai\\fixedheadert\\": ""
     }
   }
 }
