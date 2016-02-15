@@ -1,6 +1,6 @@
 <?php
 
-namespace estai\fixedheadert\assets;
+namespace Estai\fixedheadert\assets;
 use yii\web\AssetBundle;
 
 class JFixedHeaderTableAsset extends AssetBundle

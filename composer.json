@@ -1,5 +1,5 @@
 {
-  "name":  "estai/yii2-fixedheadertable",
+  "name":  "Estai/yii2-fixedheadertable",
   "version": "1.0.0",
   "description": "FixedHeaderTable in its simplest form displays a fixed header for any valid table mark-up. This is an active jQuery plugin project so expect new features and improvements to be released. ",
   "type": "yii2-extension",
